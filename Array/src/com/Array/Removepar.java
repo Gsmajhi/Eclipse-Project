@@ -36,7 +36,7 @@ public class Removepar {
         System.out.println(removePar("()()()()")); // Output: ""
         System.out.println(removePar("((()))"));   // Output: "(())"
         System.out.println(removePar("(()())"));   // Output: "()()"
-        System.out.println(removePar(""));         // Output: ""
+               // Output: ""
         System.out.println(removePar("((()(())))"));// Output: "(()(()))"
     }
 }
