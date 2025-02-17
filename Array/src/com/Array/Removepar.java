@@ -6,7 +6,7 @@ public class Removepar {
     public static String removePar(String s) {
         Stack<Character> stk = new Stack<>();
         StringBuilder sb = new StringBuilder();
-        System.out.println("remove outermost parenthesis");
+        
         System.out.println("ghanashyam majhi");
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
