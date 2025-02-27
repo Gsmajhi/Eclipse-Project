@@ -41,3 +41,4 @@ public class Removepar {
         System.out.println(removePar("((()(())))"));// Output: "(()(()))"
     }
 }
+// this code will remove the outermost parenthesis
