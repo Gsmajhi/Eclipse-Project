@@ -31,7 +31,7 @@ public class Removepar {
         
         return sb.toString();
     }
-
+// main method new line added
     public static void main(String[] args) {
         // Test cases
         System.out.println(removePar("()()()()")); // Output: ""
